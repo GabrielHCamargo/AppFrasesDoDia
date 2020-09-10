@@ -29,7 +29,7 @@ class _HomeState extends State<Home> {
   ];
 
   void geradorFrases() {
-    int numeros = Random().nextInt(8);
+    int numeros = Random().nextInt(frases.length);
     setState(() {
       _frases = frases[numeros];
     });
