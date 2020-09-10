@@ -16,7 +16,4 @@ O onPressed do botão chama uma função/método criada, na qual essa método co
 
 Att,
 GABRIEL CAMARGO
-Co-founder | Tecnologia
-Trade X Card
 gabrielhcamargocontato@gmail.com
-http://tradexcard.com.br
